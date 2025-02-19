@@ -15,8 +15,8 @@ Dataset Path in **Kaggle Notebook**:
 ## Installation
 ### **1. Clone the Repository** (If running locally)
 ```sh
-$ git clone https://github.com/yourusername/hand-gesture-recognition.git
-$ cd hand-gesture-recognition
+$ git clone https://github.com/TeefAlfadhli/PRODIGY_ML_04.git
+$ cd PRODIGY_ML_04
 ```
 
 ### **2. Install Dependencies**
