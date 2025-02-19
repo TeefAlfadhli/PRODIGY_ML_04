@@ -70,9 +70,6 @@ The model achieves a **high accuracy** in classifying hand gestures with an aver
 - Implement **real-time gesture recognition** using OpenCV and a webcam.
 - Deploy the model as a **web application** using Flask.
 
-## Contributors
-- **Your Name**  
-  [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)
 
 ## License
 This project is licensed under the **MIT License**.
